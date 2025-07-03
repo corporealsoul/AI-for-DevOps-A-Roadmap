@@ -7,6 +7,8 @@
 
 
 ## Windows,
+PS D:\GITRepos\AI-for-DevOps-A-Roadmap>  git status
 PS D:\GITRepos\AI-for-DevOps-A-Roadmap>  git add .
+PS D:\GITRepos\AI-for-DevOps-A-Roadmap>  git status
 PS D:\GITRepos\AI-for-DevOps-A-Roadmap>  git commit -m "AI-for-DevOps-A-Roadmap(Python)"
 PS D:\GITRepos\AI-for-DevOps-A-Roadmap>  git push -u origin main

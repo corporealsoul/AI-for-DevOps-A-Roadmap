@@ -25,4 +25,11 @@ DataSet = pandas.read_csv("TitanicDataSet.csv")
 
 
 
-DataSet["Fare"] = DataSet[]
+# PassengerAge = DataSet["Age"]
+# print("Passenger Age", PassengerAge)
+
+# PassengerFare = DataSet["Fare"]
+# print("Passenger Fare", PassengerFare)
+
+# PassengerAgeFare = DataSet[["Age","Fare"]]
+# print("PassengerAgeFare", PassengerAgeFare)

@@ -1,0 +1,11 @@
+PassengerId,Name,Age,Sex,Fare,Survived
+1,John Smith,22,male,7.25,0
+2,Emily Davis,38,female,71.83,1
+3,Robert Brown,26,male,7.92,1
+4,Linda Johnson,35,female,53.1,1
+5,James Wilson,28,male,8.05,0
+6,Susan Lee,45,female,26.55,1
+7,Michael Clark,54,male,51.86,0
+8,Karen Lewis,18,female,7.75,1
+9,William Hall,30,male,13,0
+10,Barbara Allen,25,female,8.05,1

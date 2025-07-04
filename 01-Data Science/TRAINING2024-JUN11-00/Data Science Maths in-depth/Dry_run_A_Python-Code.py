@@ -2,7 +2,7 @@ import numpy
 import pandas
 
 # DataSet = numpy.array([1, 2, 3, 4, 5, 6, 7, 8, 9])
-DataSet = pandas.read_csv("TitanicDataSet.csv")
+# DataSet = pandas.read_csv("TitanicDataSet.csv")
 # print("Dataset :", DataSet)
 
 
